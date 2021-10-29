@@ -206,7 +206,7 @@ sleep 2s
 error "Operation timed out (simulated)!"
 
 #
-# Test
+# Publish
 #
 if "$ENABLE_PUBLISH"
 then
